@@ -117,8 +117,8 @@ header li a{
 }
 .programacao p{
     margin-bottom:20px;
-    padding-left: 30px;
-    padding-right: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 /*REDES*/
 .redes{
@@ -139,8 +139,8 @@ header li a{
 }
 .redes p{
     margin-bottom:20px;
-    padding-left: 30px;
-    padding-right: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 .redes hr{
     width: 150px;
