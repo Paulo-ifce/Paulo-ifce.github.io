@@ -81,15 +81,6 @@ header li a{
     margin-bottom: 10px;
     text-shadow: 2px 2px black;
 }
-.btn{
-    background-color: blue;
-    color:#FFF;
-    border-radius:5px;
-    padding: 20px 50px;
-    margin:10px;
-    text-transform: uppercase;
-    font-weight: bold;
-}
 @media (max-width:700px){
     header{flex-direction: column;}
     header img{margin-bottom: 10px;}
